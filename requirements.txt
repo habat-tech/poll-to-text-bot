@@ -1,0 +1,7 @@
+python-telegram-bot
+Pillow
+pytesseract
+arabic-reshaper
+python-bidi
+PyMuPDF
+cachetools
