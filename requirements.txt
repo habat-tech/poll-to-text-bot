@@ -1,7 +1,7 @@
 python-telegram-bot
-Pillow
+pillow
 pytesseract
 arabic-reshaper
 python-bidi
-PyMuPDF
+pymupdf
 cachetools
